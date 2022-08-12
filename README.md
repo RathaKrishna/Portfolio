@@ -1,13 +1,14 @@
 <p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C5603AQELRSmBX_f2XQ/profile-displayphoto-shrink_200_200/0/1607135892078?e=1665619200&v=beta&t=mJxvZ-xgKgfo5LLJHz39Uhbbxtyym2P9nEG89tYXGdI" width="200" height="200">
+  <img src="https://user-images.githubusercontent.com/3157579/184331087-fa5e4cca-ba74-4338-99fb-8f307739ca93.png" width="200" height="200">
 </p>
 <h2 align="center">Rathakrishnan Ramasamy</h2>
 <p align="center">I am a self-driven, experienced and detail centric iOS Developer with a passion for simplistic and functional software.</p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/rathakrishnan-ramasamy-259aa676/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=yonmontoto&color=blue&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rathakrishnan-ramasamy-259aa676/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Rathakrishnan&color=blue&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
   <a href="https://github.com/Yonodactyl/iOS-Portfolio/files/5539754/YonMontotoResumeFall2020-Redacted.pdf"><img src="https://img.shields.io/static/v1?label=Resume&message=Download%20CV&color=green&style=for-the-badge"></a>&nbsp;&nbsp;
-  <a href="https://apps.apple.com/vg/developer/yon-montoto/id1461254488"><img src="https://img.shields.io/static/v1?label=AppStore&message=Yon%20Montoto&color=red&style=for-the-badge&logo=apple&logoColor=white"></a>
+  <a href="https://github.com/RathaKrishna"><img src="https://img.shields.io/static/v1?label=Github&message=rathakrishnan&color=red&style=for-the-badge&logo=github&logoColor=white"></a>
 </p><br>
+
 
 ## [Drinksly](https://apps.apple.com/us/app/drinksly/id1524569359)
 
