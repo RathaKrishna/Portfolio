@@ -23,9 +23,29 @@ A Full Spotify Mustic App based on the latest Swift that fetches latest albums, 
 </div>
 
 #### Technologies used
-* Written with Swift5.5.
+* Written with Swift 5.5.
 * Used Core Data to persist the data from Spotify API.
 * Followed the MVVM design paradigm.
+
+## [Netflix-Clone](https://github.com/RathaKrishna/Netflix-Clone)
+
+A Full Netfix Clone app made using Swift MVVM, Core Data, TMDB movie database API and Youtube API targeting iOS 15, macOS 12. The app has several main features: Official Youtube API Use, TMDB API Use, Playlist Creation and Remove Playlist, Browse & Recommended Album, Search Movies, Series, Sign In/Sign Out (OAUTH 2.0), View Your Profile, Save and Remove Albums, Share Albums and Playlists with your friends and Support Dark Mode
+
+<div class="row">
+<img src="https://user-images.githubusercontent.com/3157579/172135098-cb25e669-8774-4ce5-b48d-3f1dc5f81468.png" width="120" height="260">
+<img src="https://user-images.githubusercontent.com/3157579/172135113-25cf2327-0606-430c-b521-149b4c159544.png" width="120" height="260">
+<img src="https://user-images.githubusercontent.com/3157579/172135134-ea80e86d-4f94-4d39-9528-5b28724d8a54.png" width="120" height="260">
+<img src="https://user-images.githubusercontent.com/3157579/172135153-ab55eb1d-efe7-456f-984c-750f9e33dea1.png" width="120" height="260">
+<img src="https://user-images.githubusercontent.com/3157579/172135190-f05a0c39-4ee6-42b1-b684-7e1cbee88ac3.png" width="120" height="260">
+<img src="https://user-images.githubusercontent.com/3157579/172135206-e8481e54-79ec-49d6-9255-8fb4d04d5d97.png" width="120" height="260">
+</div>
+
+#### Technologies used
+* Written with Swift and UIKit.
+* Used Core Data to persist the data from TMDB API.
+* Followed the MVVM design paradigm.
+* Used TMDB API, Youtube API for fetch live data
+
 
 ## [Tesla App](https://github.com/RathaKrishna/Tesla_Clone_Swiftui)
 
