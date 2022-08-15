@@ -10,17 +10,21 @@
 </p><br>
 
 
-## [Drinksly](https://apps.apple.com/us/app/drinksly/id1524569359)
+## [Spotify Clone](https://github.com/RathaKrishna/SpotifyDemo)
 
-While working at Starbucks I came across some very unique and delicious drinks. Often I never had time to remember the recipes and would just forget about them. Then came along TikTok and the drink creations went through the roof! At a certain point I thought: "Maybe we can reduce the friction from all the incorrect ordering and have a streamlined way to order these drinks?" This was the inception of Drinksly: A secret menu companion. Drinksly was my first SwiftUI and Core Data backed project. There were many challenges I faced like duplicate data and managing the Core Data stack to make sure that things are stored and replaced appropriately. Eventually the hardest part of the project was making sure that it followed the MVVM paradigm. Now the app is available for download on the AppStore above.
+A Full Spotify Mustic App based on the latest Swift that fetches latest albums, tracks, playlists, episodes from https://api.spotify.com targeting iOS 15, macOS 12. The app has several main features: Official Spotify API Use, Playlists, Playlist Creation and Remove Playlist, Browse & Recommended Album, Search Songs, Albums, Artists, Playback and Playlists Playback with Skip to next and back, Sign In/Sign Out (OAUTH 2.0), View Your Profile, Save and Remove Albums, Share Albums and Playlists with your friends and Support Dark Mode
 
-![DrinkslyGroup](https://user-images.githubusercontent.com/18172931/106216902-17fd3b00-61a2-11eb-9cdc-a6e9067c705e.png)
+<div class="row">
+<img src="https://user-images.githubusercontent.com/3157579/160372478-113ee5c7-b95d-4845-b334-fb93ecb46038.png" width="120" height="260">
+<img src="https://user-images.githubusercontent.com/3157579/160372498-4921ffb9-7682-4f1f-b5e8-0107af021318.png" width="120" height="260">
+<img src="https://user-images.githubusercontent.com/3157579/160372527-06ab7e92-7fd1-4853-bae7-119f83303ace.png" width="120" height="260">
+<img src="https://user-images.githubusercontent.com/3157579/160372544-90ee4780-c49c-435f-9cbf-e67dd2099508.png" width="120" height="260">
+<img src="https://user-images.githubusercontent.com/3157579/160372570-d882f245-5e67-40a0-aa62-ee9b3667b0fd.png" width="120" height="260">
+</div>
 
 #### Technologies used
 * Written with SwiftUI.
-* Used Core Data to persist the data from CloudKit.
-* CloudKit was the framework used to request and digest the data.
-* Created my own SPM to use within the app.
+* Used Core Data to persist the data from Spotify API.
 * Followed the MVVM design paradigm.
 
 ## [Knight Spots](https://apps.apple.com/vg/app/knight-spots/id1461254489)
