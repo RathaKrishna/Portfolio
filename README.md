@@ -78,3 +78,21 @@ A Full Stack Working Amazon Clone app with Admin Dashboard developed using Flutt
 * Followed the MVVM design paradigm.
 * Used Cloudinary for image storage
 
+## [兰山项目管理 - Lanshan Project Management](https://www.pgyer.com/eU4W)
+
+兰山项目管理 (Lanshan Project Management) was developed by me using React-Native for Linyi city Municipality's key construction project management. It's a private app, that only a few municipality leaders are allowed to use, and this app is mainly for managing key construction site processes. The main features are a Live CCTV camera footage player, a Big data visualizer with various charts and allow the user to pass instructions through cloud notifications.
+
+<div class="row">
+<img src="https://user-images.githubusercontent.com/3157579/184608037-0f9cdee4-7892-4ad3-9a20-dbf5a36d0431.png" width="120" height="260">
+<img src="https://user-images.githubusercontent.com/3157579/184608176-010dc3de-4dfa-470b-b652-b995c7ef3e56.png" width="120" height="260">
+<img src="https://user-images.githubusercontent.com/3157579/184608225-628108d2-dac1-4b60-b8e3-b2e5c44ec8c5.png" width="120" height="260">
+<img src="https://user-images.githubusercontent.com/3157579/184608330-59f2f13c-1156-429c-be0a-15b3be3f22ff.png" width="120" height="260">
+<img src="https://user-images.githubusercontent.com/3157579/184608387-d31e863e-b047-4350-b4ee-f00b965cc9f7.png" width="120" height="260">
+</div>
+
+
+#### Technologies used
+
+* Written with React-Native.
+* Live CCTV Vide player, ESCharts for RN.
+* Followed the MVVM design paradigm.
