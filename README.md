@@ -35,12 +35,9 @@ This network freight platform app that helps logistics and transportation in the
 Linyi APP - Linyi people's own APP, based on the local area to provide you with fresh information, major events in Linyi, the latest news, community interaction, photos, life, the latest recruitment, job hunting, real estate, cars, home, food, supply and demand and other content. 
 
 <div class="row">
-<img src="https://user-images.githubusercontent.com/3157579/184613984-e53adf3a-1fbd-4fcc-a5e2-69fac502d070.png" width="120" height="260">
-<img src="https://res.cloudinary.com/rkcloud/image/upload/v1660556888/profile/uvmonfj1amkhbra3tcj9.png" width="120" height="260">
-<img src="https://res.cloudinary.com/rkcloud/image/upload/v1660556934/profile/uhvdvogs3gbzemyuhwsg.png" width="120" height="260">
-<img src="https://res.cloudinary.com/rkcloud/image/upload/v1660556934/profile/acl2feqlpqz9thxnfewq.png" width="120" height="260">
-<img src="https://res.cloudinary.com/rkcloud/image/upload/v1660556934/profile/bi1i48clre0ljbgha9pq.png" width="120" height="260">
-<img src="https://res.cloudinary.com/rkcloud/image/upload/v1660556934/profile/h4vdfmtabcqwyuffbkki.png" width="120" height="260">
+<img src="https://res.cloudinary.com/rkcloud/image/upload/v1660557949/profile/q16ipvezhduphsbuv6sb.png" width="120" height="260">
+<img src="https://res.cloudinary.com/rkcloud/image/upload/v1660557949/profile/l43rgapaup9mrtyvvwyp.png" width="120" height="260">
+<img src="https://res.cloudinary.com/rkcloud/image/upload/v1660557949/profile/pv6sxwqlrzansqbhortl.png" width="120" height="260">
 </div>
 
 
