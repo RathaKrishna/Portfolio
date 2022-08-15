@@ -30,6 +30,25 @@ This network freight platform app that helps logistics and transportation in the
 * Followed the MVC design paradigm.
 * Used various libraries like AFNetworking, SDWebImage, MJExtension, Amap, SDCycleScrollView etc
 
+## [临沂APP - Social APP](https://apps.apple.com/cn/app/lin-yiapp/id1048440274?l=en&platform=iphone)
+
+Linyi APP - Linyi people's own APP, based on the local area to provide you with fresh information, major events in Linyi, the latest news, community interaction, photos, life, the latest recruitment, job hunting, real estate, cars, home, food, supply and demand and other content. 
+
+<div class="row">
+<img src="https://user-images.githubusercontent.com/3157579/184613984-e53adf3a-1fbd-4fcc-a5e2-69fac502d070.png" width="120" height="260">
+<img src="https://res.cloudinary.com/rkcloud/image/upload/v1660556888/profile/uvmonfj1amkhbra3tcj9.png" width="120" height="260">
+<img src="https://res.cloudinary.com/rkcloud/image/upload/v1660556934/profile/uhvdvogs3gbzemyuhwsg.png" width="120" height="260">
+<img src="https://res.cloudinary.com/rkcloud/image/upload/v1660556934/profile/acl2feqlpqz9thxnfewq.png" width="120" height="260">
+<img src="https://res.cloudinary.com/rkcloud/image/upload/v1660556934/profile/bi1i48clre0ljbgha9pq.png" width="120" height="260">
+<img src="https://res.cloudinary.com/rkcloud/image/upload/v1660556934/profile/h4vdfmtabcqwyuffbkki.png" width="120" height="260">
+</div>
+
+
+#### Technologies used
+* Written with Objective-C.
+* Used Core Data to persist the data.
+* Followed the MVVM design paradigm.
+* Used various libraries like AFNetworking, SDWebImage, MJExtension, Amap, SDCycleScrollView, Taobao IM, Jpush etc
 
 ## [Spotify Clone](https://github.com/RathaKrishna/SpotifyDemo)
 
