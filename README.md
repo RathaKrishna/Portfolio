@@ -60,9 +60,22 @@ Tesla app was a SwiftUI demo project of mine that I implemented during my free h
 </div>
 
 
-
-
 #### Technologies used
 * Written entirely with SwiftUI.
 
+## [Amazon-Clone](https://github.com/RathaKrishna/flutter_amazon_clone)
+
+A Full Stack Working Amazon Clone app with Admin Dashboard developed using Flutter and Backend with NodeJs and MongoDB + Atlas. The main features of this app are as sellers can post products, manage product shipment, view product sales data by the chart. as a user, can search for the products, add and update addresses and view available addresses, can buy a product, save favorite products, write a review for the product, can see the product shipping status and many more. 
+
+<div class="row">
+<img src="https://user-images.githubusercontent.com/3157579/178204057-dd51e81c-bc60-41db-b626-600a1e2a130e.gif" width="120" height="260">
+<img src="https://user-images.githubusercontent.com/3157579/178206855-2368a5e9-12bf-4110-9d50-45a91d632804.gif" width="120" height="260">
+</div>
+
+#### Technologies used
+* Written with Flutter.
+* Used NodeJS, MongoDB for backend.
+* Followed the MVVM design paradigm.
+* Used Cloudinary for image storage
+* 
 
