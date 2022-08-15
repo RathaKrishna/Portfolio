@@ -77,5 +77,4 @@ A Full Stack Working Amazon Clone app with Admin Dashboard developed using Flutt
 * Used NodeJS, MongoDB for backend.
 * Followed the MVVM design paradigm.
 * Used Cloudinary for image storage
-* 
 
