@@ -4,7 +4,7 @@
 <h2 align="center">Rathakrishnan Ramasamy</h2>
 <p align="center">I am a self-driven, experienced and detail centric iOS Developer from Tamilnadu in India 🇮🇳. I love to create iOS apps that would make life easy and enjoyable for people. I am currently working for ARPA Digital Technology Co., Ltd, Linyi, China. </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/rathakrishnan-ramasamy-259aa676/"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Rathakrishnan&color=blue&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="www.linkedin.com/in/Rathakrish"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Rathakrishnan&color=blue&style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
   <a href="https://rathakrishna.github.io/index.html"><img src="https://img.shields.io/static/v1?label=Website&message=Profile&color=green&style=for-the-badge&logo=Embarcadero&logoColor=white"></a>&nbsp;&nbsp;
   <a href="https://github.com/RathaKrishna"><img src="https://img.shields.io/static/v1?label=Github&message=rathakrishnan&color=red&style=for-the-badge&logo=github&logoColor=white"></a>
 </p><br>
